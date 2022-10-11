@@ -36,3 +36,9 @@ int main()
     getch();
 }
 
+/* Output: 
+Enter the number of interval: 6
+Enter the lower limit: 0
+Enter the upper limit: 3
+The value of y is: 17.625000
+*/
