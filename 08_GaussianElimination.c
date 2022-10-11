@@ -81,3 +81,30 @@ int main()
     return 0;
 }
 
+
+/* Output: 
+Enter the order of matrix:
+3
+Enter the element of augmented matrix row-wise:
+A[1] [1] : 1
+A[1] [2] : 1
+A[1] [3] : 2
+A[1] [4] : 8
+A[2] [1] : -1
+A[2] [2] : -2
+A[2] [3] : 3
+A[2] [4] : 1
+A[3] [1] : 3
+A[3] [2] : -7
+A[3] [3] : 4
+A[3] [4] : 10
+The upper triangular matrix is:
+1.0000001.0000002.0000008.000000
+0.000000-1.0000005.0000009.000000
+0.0000000.000000-52.000000-104.000000
+After applying backward substitution:
+The solution is:
+x1=3.000000
+x2=1.000000
+x3=2.000000
+*/
