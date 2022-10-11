@@ -32,3 +32,12 @@ int main()
     printf("The required solution does not converge or iterations are insufficient\n");
     return 1;
 }
+
+/* Output: 
+Enter x0, allowed error and maximum iterations
+0 0.001 10
+At Iteration no.   1, x =  0.666667
+At Iteration no.   2, x =  0.607493
+At Iteration no.   3, x =  0.607102
+After   3 iterations, root = 0.607102
+*/
