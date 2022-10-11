@@ -51,6 +51,8 @@ int main()
     return 0;
 }
 
+// © https://github.com/thetahmeed
+
 /* Output: 
 Input Interval: 0 1
 Ite     a               b               m               f(m)            error

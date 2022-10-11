@@ -33,6 +33,8 @@ int main()
     return 1;
 }
 
+// © https://github.com/thetahmeed
+
 /* Output: 
 Enter x0, allowed error and maximum iterations
 0 0.001 10

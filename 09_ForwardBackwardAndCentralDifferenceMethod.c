@@ -64,6 +64,8 @@ void backwardDiff()
     printf("f(a)=%lf", res);
 }
 
+// © https://github.com/thetahmeed
+
 /* Output : 
 Enter Choice 
          Enter 1 (forward Diff) 

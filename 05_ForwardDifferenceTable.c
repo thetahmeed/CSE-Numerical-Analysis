@@ -36,6 +36,8 @@ int main()
     return 0;
 }
 
+// © https://github.com/thetahmeed
+
 /* Output: 
 Enter number of Data:
 5

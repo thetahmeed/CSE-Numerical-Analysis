@@ -43,6 +43,8 @@ int main()
     return (0);
 }
 
+// © https://github.com/thetahmeed
+
 /* Output: 
 Enter initial guess: 3.2
 Enter tolerable error: 0.001

@@ -36,6 +36,8 @@ int main()
     getch();
 }
 
+// © https://github.com/thetahmeed
+
 /* Output: 
 Enter the number of interval: 6
 Enter the lower limit: 0

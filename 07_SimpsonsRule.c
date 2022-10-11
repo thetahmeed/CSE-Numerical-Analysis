@@ -39,6 +39,8 @@ int main()
     return 0;
 }
 
+// © https://github.com/thetahmeed
+
 /* Output: 
 Enter lower limit of integration : 0
 Enter upper limit of integration : 3
