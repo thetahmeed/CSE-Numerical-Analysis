@@ -63,3 +63,14 @@ void backwardDiff()
     double res = (f(a + h) - f(a)) / (2 * h);
     printf("f(a)=%lf", res);
 }
+
+/* Output : 
+Enter Choice 
+         Enter 1 (forward Diff) 
+         Enter 2 (central Diff) 
+         Enter 3 (backward Diff)
+  Enter Choice 1
+Enter a and h separator by space 
+3 0.1
+f(a)=-0.497697
+*/
