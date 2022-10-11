@@ -38,3 +38,10 @@ int main()
     getch();
     return 0;
 }
+
+/* Output: 
+Enter lower limit of integration : 0
+Enter upper limit of integration : 3
+Enter number of sub intervals : 6
+Required value of integration is : 1.247
+*/
